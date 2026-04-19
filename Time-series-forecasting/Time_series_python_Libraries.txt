@@ -1,0 +1,11 @@
+## Time series Python Libraries:
+
+1. tsfresh (https://lnkd.in/dqX3Efxt )
+2. AutoTS(https://lnkd.in/d8DV37J2 )
+3. Kats (Kits to Analyze Time Series) (https://lnkd.in/dgqM9456)
+4. Prophet (https://lnkd.in/dwVQfqWb )
+5. darts (https://lnkd.in/dEBkPKq5 )
+6. sktime (https://lnkd.in/dJ_TaS22 )
+7. statsmodel (https://lnkd.in/dEj6i-WW )
+8. PyFlux (https://lnkd.in/dQVXQ5b4 )
+9. Orbit (https://lnkd.in/d7NyGDPN )
